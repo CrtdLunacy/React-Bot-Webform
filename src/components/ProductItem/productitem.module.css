@@ -1,0 +1,26 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--tg-theme-button-color);
+  padding: 15px;
+  width: 170px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.img {
+  width: 100%;
+  background: lightgray;
+  height: 250px;
+  margin: 0 auto;
+  background: var(--tg-theme-buttom-color);
+}
+
+.description {
+  font-size: 0.8em;
+  margin-bottom: auto;
+}
+
+.addBtn {
+  width: 100%;
+}
